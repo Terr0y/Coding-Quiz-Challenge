@@ -1,5 +1,8 @@
 # Coding-Quiz-Challenge
 
+## Deployed URL
+
+
 ## Description
 
 This Coding Quiz Game is an interactive web application designed to test your knowledge on various web development topics, including HTML, CSS, and JavaScript. It features a timed quiz with multiple-choice questions, where each incorrect answer results in a time penalty.
@@ -13,7 +16,7 @@ High score leaderboard.
 
 ## Installation
 
-No installation required. To run the game, simply click on the link and follow and start.
+No installation required. To run the game, simply click on the link.
 
 ## Usage
 
@@ -25,9 +28,9 @@ No installation required. To run the game, simply click on the link and follow a
 
 ## Technologies Used
 
-HTML
-CSS
-JavaScript
+* HTML
+* CSS
+* JavaScript
 
 ## Application Screenshort
 

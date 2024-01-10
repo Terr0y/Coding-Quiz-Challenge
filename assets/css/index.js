@@ -201,8 +201,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         localStorage.setItem('highscores', JSON.stringify(highscores));
         // redirect to our highscores.html page
-        //window.location.href = 'highscores.html';
-       //window.location.replace('highscores.html')
+        
     }
 
 
@@ -214,26 +213,21 @@ document.addEventListener('DOMContentLoaded', () => {
             console.error('Submit button not found');
         }
     
-        // ... rest of your code ...
-    });
+        });
     
-
-
-
-
-
-
-    const highscoreForm = document.getElementById('highscore-form'); // Replace with your form's ID
+        
+// submitButton.addEventListener('click', saveHighScore);
+    const highscoreForm = document.getElementById('highscore-form'); 
 if (highscoreForm) {
     highscoreForm.addEventListener('submit', saveHighScore);
 } else {
-    document.getElementById('submit').addEventListener('click', saveHighScore); // submitButton.addEventListener('click', saveHighScore);
+    document.getElementById('submit').addEventListener('click', saveHighScore); 
 }
 
     
     // Event listeners for the start button
     startButton.addEventListener('click', startQuiz);
-    //submitButton.addEventListener('click', saveHighScore);
+
     
 
     
