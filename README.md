@@ -34,6 +34,8 @@ No installation required. To run the game, simply click on the link.
 
 ## Application Screenshort
 
+![Application Screenshot](assets/images/08-web-apis-challenge-demo.gif)
+
 ## License
 
 MIT License
