@@ -2,6 +2,8 @@
 
 ## Deployed URL
 
+https://terr0y.github.io/Coding-Quiz-Challenge/
+
 
 ## Description
 
